@@ -14,7 +14,7 @@ First application on Kubernetes using Kubernetes deployments
 
 Now, check whether it is running:
 ```sh
-    $ kubectl get pods
+    kubectl get pods
     NAME                                   READY     STATUS    RESTARTS   AGE
     kubernetes-bootcamp-5c69669756-wv2rp   1/1       Running   0          11s
 ```
